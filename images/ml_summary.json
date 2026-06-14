@@ -1,0 +1,26 @@
+{
+  "best_model": "Decision Tree",
+  "best_cv_score": 0.7904761904761906,
+  "scores": [
+    {
+      "Model": "Logistic Regression",
+      "Test Accuracy": 0.7777777777777778,
+      "CV Best Score": 0.6914285714285715
+    },
+    {
+      "Model": "SVM",
+      "Test Accuracy": 0.8333333333333334,
+      "CV Best Score": 0.7628571428571428
+    },
+    {
+      "Model": "Decision Tree",
+      "Test Accuracy": 0.6666666666666666,
+      "CV Best Score": 0.7904761904761906
+    },
+    {
+      "Model": "KNN",
+      "Test Accuracy": 0.7222222222222222,
+      "CV Best Score": 0.7504761904761905
+    }
+  ]
+}

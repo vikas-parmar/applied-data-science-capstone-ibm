@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+_reference/
+_pptx_extract/
+*.html
+.DS_Store
+Thumbs.db
